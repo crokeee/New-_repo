@@ -1,4 +1,3 @@
 # New-_repo
-Test repo
-This is my new repo to test git out
+Test Repo text 2
 
